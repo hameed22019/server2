@@ -1482,7 +1482,7 @@ video {
 
 .bg-light-blue {
     --tw-bg-opacity: 1;
-    background-color: rgb(64 192 240 / var(--tw-bg-opacity))
+    background-color: rgb(243 8 8);
 }
 
 .bg-light-gray {
@@ -1793,7 +1793,7 @@ video {
 
 .text-light-blue {
     --tw-text-opacity: 1;
-    color: rgb(64 192 240 / var(--tw-text-opacity))
+    color: rgb(212 8 8);
 }
 
 .text-light-gray {
